@@ -1,0 +1,23 @@
+.wrapper {
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+}
+
+.posts {
+   width: 50%;
+   padding: 10px;
+}
+
+.post {
+   margin: 5px;
+   padding: 5px;
+   border-radius: 5px;
+   border: 1px solid black;
+}
+
+.controls {
+   width: 50%;
+   text-align: center;
+   padding: 10px;
+}

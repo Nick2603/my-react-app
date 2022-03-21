@@ -1,7 +1,7 @@
 .main {
    display: flex;
-   justify-content: center;
-   align-items: center;
+   justify-content: flex-start;
+   align-items: flex-start;
    background-color: lightgray;
    min-height: 80vh;
 }
